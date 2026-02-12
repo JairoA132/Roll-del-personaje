@@ -1,8 +1,7 @@
-
 <h1 align="center">🎲 Roll del Personaje</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Creación+de+Personajes+Personalizados;MySQL+%2B+Ciencia+de+Datos;Visualización+de+Estadísticas+en+Tiempo+Real" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Creación+de+Personajes+Personalizados;MySQL+%2B+Ciencia+de+Datos;Visualización+de+Estadísticas+en+Tiempo+Real;Sistema+Interactivo+de+Análisis+de+Personajes" />
 </p>
 
 ---
@@ -15,16 +14,17 @@
 
 ---
 
-## 🧠 Descripción
+## 🧠 Descripción del Proyecto
 
 <p align="center">
-Software que combina <b>MySQL</b> y <b>Ciencia de Datos</b> para crear personajes personalizados mediante la asignación de estadísticas.
-Los datos se procesan y se transforman en visualizaciones que permiten analizar y comparar el rendimiento de cada personaje.
+Sistema desarrollado en <b>Python</b> que integra <b>MySQL</b> y técnicas de <b>Ciencia de Datos</b> para la creación de personajes personalizados mediante la asignación de estadísticas.<br><br>
+
+Los datos se almacenan, procesan y transforman en visualizaciones dinámicas que permiten analizar, comparar y evaluar el rendimiento de cada personaje de forma intuitiva.
 </p>
 
 ---
 
-## 🎭 Roles de Personajes (Ejemplo)
+## 🎭 Roles de Personajes
 
 <table align="center">
 <tr>
@@ -77,32 +77,32 @@ Ataque ▰▰▰▰▰▰▱▱▱▱ 60%
 
 ---
 
-## 📊 Vista previa del sistema
+## 📊 Vista Previa del Sistema
 
 <p align="center">
-<img src="AQUI_TU_IMAGEN.png" width="80%">
+<img src="figura 1.png" width="85%" style="border-radius:15px;">
 </p>
 
 ---
 
-## 🧬 Funcionalidades
+## 🧬 Funcionalidades Principales
 
-✅ Creación de personajes  
-✅ Asignación de estadísticas  
-✅ Almacenamiento en MySQL  
-✅ Visualización gráfica  
-✅ Comparación de rendimiento  
-
----
-
-## 🌌 Estado del Proyecto
-
-<p align="center">
-<img src=""figura 1.png"">
-</p>
+✨ Creación de personajes personalizados  
+✨ Asignación dinámica de estadísticas  
+✨ Almacenamiento estructurado en base de datos MySQL  
+✨ Generación automática de gráficas  
+✨ Comparación visual entre personajes  
+✨ Análisis de rendimiento  
 
 ---
 
-<p align="center">
-✨ Desarrollado por Jairo Andres Gamboa ✨
-</p>
+## ⚙️ Tecnologías Utilizadas
+
+| Tecnología | Uso |
+|------------|------------|
+| 🐍 Python | Lógica del sistema |
+| 🗄️ MySQL | Almacenamiento de datos |
+| 📊 Matplotlib / Librerías de visualización | Generación de gráficas |
+| 🧠 Ciencia de Datos | Procesamiento y análisis |
+
+---
